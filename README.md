@@ -7,9 +7,9 @@ I build web applications from frontend interfaces to backend APIs. My work spans
 
 ## Tech stack
 
-- **Frontend:** Vue.js, Nuxt, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+- **Frontend:** Vue.js, Nuxt, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, BootstrapVue
 - **Backend:** PHP, Laravel, Symfony, REST APIs
-- **Data:** MySQL
+- **Data & services:** MySQL, Firebase
 - **Tools & delivery:** Git, GitHub Actions, Linux, Nginx, AWS
 
 ## Selected projects
@@ -30,11 +30,11 @@ An independent German-language parenting resource featuring articles and practic
 
 Highlights: content-driven application development, SEO-focused pages, and deployment and maintenance of a live web platform. Source code is private.
 
-### 🔢 Numles — Number puzzle game
+### 🔢 [Numles](https://numles.com) — Number puzzle game
 
 A number puzzle game with multiple modes, developed as an independent product.
 
-**Tech:** Vue 2 · Nuxt 2 · JavaScript · Firebase
+**Tech:** Vue 2 · Nuxt 2 · JavaScript · Firebase · BootstrapVue
 
 Highlights: interactive game UI, application state, and product development. Source code is private.
 
