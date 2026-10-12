@@ -1,53 +1,65 @@
 # Hi, I'm Andaç 👋
 
-**Full-Stack Developer | Vue.js, Nuxt & Laravel**  
-📍 Based in Bavaria, Germany
+**Full-Stack Software Developer | PHP · Laravel · Vue.js · TypeScript**  
+📍 Bavaria, Germany
 
-I build web applications from frontend interfaces to backend APIs. My work spans Vue.js/Nuxt, PHP/Laravel, API integrations, and building and maintaining independent digital products. I care about clear user experiences, practical architecture, performance, and maintainable code.
+I'm a software developer with professional experience building and maintaining web applications, integrating REST APIs, and improving performance and user experience. Alongside my professional work, I design, develop, and maintain independent software products—from the initial idea to deployment.
 
 ## Tech stack
 
-- **Frontend:** Vue.js, Nuxt, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, BootstrapVue
+- **Frontend:** Vue.js (Vue 2 & 3), Nuxt, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, BootstrapVue
 - **Backend:** PHP, Laravel, Symfony, REST APIs
 - **Data & services:** MySQL, Firebase
-- **Tools & delivery:** Git, GitHub Actions, Linux, Nginx, AWS
+- **Tools & infrastructure:** Git, GitHub Actions, Linux, Nginx, AWS
+
+## Professional experience
+
+**Full-Stack Developer · Anneysen.com**  
+*Aug 2023 – Mar 2025*  
+Developed and maintained web application features using PHP, Symfony, and JavaScript, with a focus on search visibility, performance, and maintainability.
+
+**Co-Founder & Project Coordinator · Okul.com.tr**  
+*Jan 2017 – Apr 2021*  
+Coordinated product development, SEO, web analytics, and team activities for an education platform.
 
 ## Selected projects
 
 ### 🎸 [AkorGitar](https://akorgitar.com) — Guitar chords & music tools
 
-A web platform for exploring guitar chords, transposing songs, managing repertoires, and using browser-based music tools.
+An application for discovering guitar chords, transposing songs, creating personal repertoires, and using browser-based music tools.
 
-**Tech:** Nuxt 4 · Vue.js · TypeScript · Tailwind CSS · Laravel REST API · MySQL
+**Stack:** Nuxt 4 · Vue.js · TypeScript · Tailwind CSS · Laravel REST API · MySQL
 
-Highlights: component-based frontend, reusable composables, server-side rendering, typed API integrations, and automated CI checks. Source code is private.
+**Engineering highlights:** Reusable Vue components and composables, server-side rendering, typed API integration, and automated checks with GitHub Actions. The application includes a catalog of over 4,200 song entries. Source repository is private.
 
-### 👶 [ElternBaby](https://elternbaby.de) — Parenting information platform
+### 👶 [ElternBaby](https://elternbaby.de) — Parenting information & tools
 
-An independent German-language parenting resource featuring articles and practical tools for families.
+An independent German-language parenting platform with practical tools and information for families.
 
-**Tech:** Laravel · PHP · MySQL · JavaScript
+**Stack:** PHP · Laravel · MySQL · JavaScript
 
-Highlights: content-driven application development, SEO-focused pages, and deployment and maintenance of a live web platform. Source code is private.
+**Engineering highlights:** Full-stack product development, SEO-oriented web pages, deployment, and ongoing maintenance of a live application. Source repository is private.
 
 ### 🔢 [Numles](https://numles.com) — Number puzzle game
 
-A number puzzle game with multiple modes, developed as an independent product.
+An interactive number puzzle game with multiple play modes.
 
-**Tech:** Vue 2 · Nuxt 2 · JavaScript · Firebase · BootstrapVue
+**Stack:** Vue 2 · Nuxt 2 · JavaScript · Firebase · BootstrapVue
 
-Highlights: interactive game UI, application state, and product development. Source code is private.
+**Engineering highlights:** Interactive interfaces, application state, and end-to-end independent product development. Source repository is private.
 
-## What I enjoy working on
+## Education
 
-- Building responsive, intuitive web interfaces
-- Integrating frontend applications with REST APIs
-- Improving application performance and maintainability
-- Taking products from idea to deployment
+**Bachelor's Degree in Computer Engineering**  
+Selçuk University, Turkey · 2012–2016  
+*Computer Engineering (a computing/informatics discipline)*
+
+**Associate Degree in Computer Technologies**  
+Süleyman Demirel University, Turkey · 2008–2010
 
 ## Connect
 
 - **GitHub:** [@andacistan](https://github.com/andacistan)
-- **Project:** [AkorGitar](https://akorgitar.com) · [ElternBaby](https://elternbaby.de)
+- **Projects:** [AkorGitar](https://akorgitar.com) · [ElternBaby](https://elternbaby.de) · [Numles](https://numles.com)
 
-> Some production projects are maintained in private repositories. I'm happy to discuss their architecture, implementation decisions, and technical challenges.
+> My production repositories are private. I'm happy to discuss their architecture, implementation decisions, and technical challenges.
